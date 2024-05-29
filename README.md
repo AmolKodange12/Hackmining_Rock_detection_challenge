@@ -4,7 +4,7 @@ Recipient of 2nd Prize at the Hackmining Techathon 2024, https://www.the-miningf
 ![image](https://github.com/AmolKodange12/Hackmining_Rock_detection_challenge/assets/30370271/a607c0a2-5170-420e-bc4b-2015e45271ec)  
 Link to the dataset, examples of input and output videos in case you want to test your own algorithms: https://www.dropbox.com/scl/fo/y2ma98byvkfs5qowpau41/APDLg8Q2an79ssCCFqetxJA?rlkey=aase7hexhkcltugoqcncnjime&st=n16qrezt&dl=0  
 
-Clone the repo, create and activate the conda environment using the yaml file  
+Clone the repo, create and activate the conda environment using the yaml file:  
 
 `cd Scripts`  
 
@@ -12,5 +12,9 @@ Clone the repo, create and activate the conda environment using the yaml file
 
 `conda activate your_environment_name`  
 
+Run either the classic or the ML implementation, taking care to substitute either a camera feed or a video file as input and the correct .pt file for the model you wish to use for the inference:  
 
+'python classic_implementation.py'  
+
+'python yolov8n_implementation.py'  
 
