@@ -5,6 +5,7 @@ Recipient of 2nd Prize at the Hackmining Techathon 2024, https://www.the-miningf
 Link to the dataset, examples of input and output videos in case you want to test your own algorithms: https://www.dropbox.com/scl/fo/y2ma98byvkfs5qowpau41/APDLg8Q2an79ssCCFqetxJA?rlkey=aase7hexhkcltugoqcncnjime&st=n16qrezt&dl=0  
 
 Clone the repo, create and activate the conda environment using the yaml file  
+
 `cd Scripts`  
 
 `conda env create -f conda_env.yaml`  
