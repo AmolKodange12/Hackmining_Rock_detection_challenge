@@ -14,7 +14,7 @@ Clone the repo, create and activate the conda environment using the yaml file:
 
 Run either the classic or the ML implementation, taking care to substitute either a camera feed or a video file as input and the correct .pt file for the model you wish to use for the inference:  
 
-'python classic_implementation.py'  
+`python classic_implementation.py`    
 
-'python yolov8n_implementation.py'  
+`python yolov8n_implementation.py`  
 
