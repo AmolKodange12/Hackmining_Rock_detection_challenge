@@ -6,7 +6,10 @@ Link to the dataset, examples of input and output videos in case you want to tes
 
 Clone the repo, create and activate the conda environment using the yaml file  
 `cd Scripts`  
+
 `conda env create -f conda_env.yaml`  
+
 `conda activate your_environment_name`  
+
 
 
