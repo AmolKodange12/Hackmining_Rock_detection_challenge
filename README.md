@@ -1,4 +1,4 @@
-# Hackmining Rock detection Challenge.
+# Hackmining Rock detection Challenge
 Implementation of the oversized material detection using a camera, detection algorithm and raspberry pi connection to stop the machine.  
 Recipient of 2nd Prize at the Hackmining Techathon 2024, https://www.the-miningforum.com/hackathon.html.  
 ![image](https://github.com/AmolKodange12/Hackmining_Rock_detection_challenge/assets/30370271/a607c0a2-5170-420e-bc4b-2015e45271ec)  
